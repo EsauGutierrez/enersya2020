@@ -6,7 +6,7 @@ require 'header.php';
 
     <body id="home" class="homepage">
 
-
+ 
         <header id="top-header" class="navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">

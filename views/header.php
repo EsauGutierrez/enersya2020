@@ -63,8 +63,7 @@
                             <li class="scroll"><a href="#services" data-section="#services">Servicios</a></li>
                             <li class="scroll"><a href="#testimonial" data-section="#testimonial">Catálogo</a></li>
                             <li class="scroll"><a href="#contact-area" data-section="#contact-area">Contacto</a></li>
-                            <li class="scroll"><a href="#contact-area" data-section="#contact-area">Cotizaciones</a></li>
-                            <a class="btn btn-primary btn-normal" href="login.html">Iniciar sesión</a>
+                            <li class="scroll"><a href="#contact-area" data-section="#contact-area">Cotizaciones</a></li>                            
                         </ul>
                     </div>
                 </nav>
